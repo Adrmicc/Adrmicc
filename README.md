@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Adrmicc/Adrmicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adrmicc, a Software Engineer passionate about automation and creating stuff.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Auto Download Organizer](https://github.com/Adrmicc/auto-download-organizer)** - Professional Python tool for organizing files with duplicate detection
+- **[Clinic Website](https://github.com/Adrmicc/Clinic-website)** - TypeScript web application
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Adrmicc)
+
+---
+💡 Always learning, always building
