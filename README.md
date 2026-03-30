@@ -7,6 +7,7 @@ I'm Adrmicc, a Software Engineer passionate about automation and creating stuff.
 - **[Auto Download Organizer](https://github.com/Adrmicc/auto-download-organizer)** - Professional Python tool for organizing files with duplicate detection
 - **[Clinic Website](https://github.com/Adrmicc/Clinic-website)** - TypeScript web application
 - **[IPTV m3u Web Player](https://github.com/Adrmicc/IPTV-m3u-Web-Player-ez)** - A simple, client-side web player for IPTV
+- **[Russian Roulette](https://github.com/Adrmicc/russian-roulette)** - Russian Roulette mini-game containerized with Docker with CI/CD and Ansible
 
 ## 🛠️ Tech Stack
 
